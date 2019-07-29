@@ -1,5 +1,3 @@
-#Script para descargar los datos de los autores del Museo Nacional Centro de Arte Reina Sofía
-
 library(rvest)
 library(tidyverse)
 library(readxl)
